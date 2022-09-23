@@ -9,7 +9,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: red;
+  background-color: red
 }
 
 .nav__botao,
@@ -17,4 +17,5 @@ nav{
   width: 35px;
   height: 35px;
   background-color: blue;
+  margin: 15px;
 }
